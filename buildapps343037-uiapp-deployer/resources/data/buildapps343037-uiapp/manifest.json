@@ -1,0 +1,52 @@
+{
+  "sap.app": {
+    "id": "buildapps343037",
+    "type": "application",
+    "applicationVersion": {
+      "version": "1.0.0"
+    },
+    "title": "Todo List",
+    "subTitle": "",
+    "info": "",
+    "description": "",
+    "crossNavigation": {
+      "inbounds": {
+        "external": {
+          "signature": {
+            "parameters": {},
+            "additionalParameters": "allowed"
+          },
+          "semanticObject": "buildapps343037",
+          "action": "open",
+          "title": "Todo List"
+        }
+      }
+    }
+  },
+  "sap.flp": {
+    "type": "application",
+    "config": {
+      "target": {
+        "type": "URL",
+        "url": "/buildapps343037.buildapps343037/index.html",
+        "navmode": "inplace",
+        "parameters": {}
+      }
+    }
+  },
+  "sap.ui": {
+    "technology": "URL",
+    "deviceTypes": {
+      "desktop": true,
+      "tablet": true,
+      "phone": true
+    },
+    "icons": {
+      "icon": ""
+    }
+  },
+  "sap.cloud": {
+    "public": true,
+    "service": "buildapps343037"
+  }
+}

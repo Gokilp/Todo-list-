@@ -1,0 +1,11 @@
+manifest-Version: 1.0
+Created-By: SAP Application Archive Builder 1.2.26
+
+Name: buildapps343037-uiapp-deployer/resources/data.zip
+MTA-Module: buildapps343037-uiapp-deployer
+Content-Type: application/zip
+
+
+Name: META-INF/mtad.yaml
+Content-Type: text/plain
+
